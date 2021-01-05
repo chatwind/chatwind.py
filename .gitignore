@@ -1,0 +1,4 @@
+
+__pycache__/
+dist/
+chatwind.py.egg-info/
