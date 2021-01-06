@@ -34,3 +34,10 @@ user = chatwind.user("USERNAME")
 print(user)
 ```
 The code above should return a 200 OK message. (JSON)
+
+### Get a list of the Chatwind voice servers
+```py
+servers = chatwind.servers()
+print(servers)
+```
+The code above should return a 200 OK message. (JSON)
