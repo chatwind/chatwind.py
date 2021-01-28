@@ -9,8 +9,8 @@ Official RESTful Python API wrapper for the Chatwind API
 <br>
 <p>
 <br>
-<a href="https://www.pypi.org/package/chatwind.py"><img src="https://static.pepy.tech/badge/chatwind.py/month" alt="PyPi downloads" /></a>
-<a href="https://www.pypi.org/package/chatwind.py"><img src="https://api.ghprofile.me/view?username=chatwind-chatwind.py&label=repository%20view%20count&style=flat" alt="Repository view count" /></a>
+<a href="https://www.pypi.org/project/chatwind.py"><img src="https://static.pepy.tech/badge/chatwind.py/month" alt="PyPi downloads" /></a>
+<a href="https://www.pypi.org/project/chatwind.py"><img src="https://api.ghprofile.me/view?username=chatwind-chatwind.py&label=repository%20view%20count&style=flat" alt="Repository view count" /></a>
 </p>
 
 <br>
