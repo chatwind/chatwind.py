@@ -5,7 +5,7 @@ this_directory = path.abspath(path.dirname(__file__))
 with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
     long_description = f.read()
 
-version = '1.0.9'
+version = '1.1.0'
 
 setup(
   name = 'chatwind.py',
@@ -15,7 +15,6 @@ setup(
   description = 'Official RESTful Python API wrapper for the Chatwind API',
   author = 'chatwind',
   url = 'https://github.com/chatwind/chatwind.py',
-  #download_url = 'https://github.com/milanmdev/dudb.py/tree/main/dist/dudb-' + version + '.tar.gz',
   keywords = ['chatwind', 'api', 'python'],
   install_requires=[
           'requests'

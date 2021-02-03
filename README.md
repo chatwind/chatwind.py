@@ -41,3 +41,10 @@ servers = chatwind.servers()
 print(servers)
 ```
 The code above should return a 200 OK message. (JSON)
+
+### Check if a custom meeting code is valid
+```py
+customcode = chatwind.customcode("CODE")
+print(customcode)
+```
+The code above should return a 200 OK message. (JSON)
