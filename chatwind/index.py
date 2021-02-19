@@ -14,3 +14,7 @@ def servers():
 def customcode(code):
     resCustomCode = requests.get(baseURL+'/customcode?code='+code)
     return resCustomCode.json()
+
+def stats():
+    resStats = requests.get(baseURL+'/stats')
+    return resStats.json()

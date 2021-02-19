@@ -8,3 +8,6 @@ print(servers)
 
 customcode = customcode("CODE")
 print(customcode)
+
+stats = stats()
+print(stats)

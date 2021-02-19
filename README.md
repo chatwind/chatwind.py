@@ -48,3 +48,10 @@ customcode = chatwind.customcode("CODE")
 print(customcode)
 ```
 The code above should return a 200 OK message. (JSON)
+
+### Get the statistics for Chatwind
+```py
+stats = chatwind.stats()
+print(stats)
+```
+The code above should return a 200 OK message. (JSON)
